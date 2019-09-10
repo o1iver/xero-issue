@@ -1,3 +1,5 @@
+Repository for reproducing https://github.com/XeroAPI/xero-node/issues/281.
+
 ## Running
 
 Create a `config.json` file containing:
